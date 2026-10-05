@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Bianca Rodrigues de Oliveira!👋
 
-<!--
-**biaoliver7393/biaoliver7393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu portifólio técnico. Sou um desenvolvedor em constante evolução.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🎓Graduada em Engenharia de Controle e Automação. Focada em desenvolvimento backend.
+- 🎯Buscando minha primeira oportunidade no mercado como **Desenvolvedor Júnior**.
+- 🧠Atualmente aprofundando estudos em **Clean Arquitecture**, **Princípios SOLID** e **APIs RESTful**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## ⚒️ Tecnologias e Ferramentas
+  - Linguagem:** Python em desenvolvimento
+  - Frameworks:** .NET
+ 
+  ### 📫  Vamos nos conectar?
+  - 💼 www.linkedin.com/in/bianca-rodrigues-de-oliveira-434677194
