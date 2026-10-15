@@ -1,6 +1,6 @@
 # Olá, eu sou Bianca Rodrigues de Oliveira!👋
 
-Seja bem-vindo ao meu portifólio técnico. Sou um desenvolvedor em constante evolução.
+Seja bem-vindo ao meu portfólio técnico. Sou um desenvolvedor em constante evolução.
 
 ## 🚀 Sobre Mim
 - 🎓Graduada em Engenharia de Controle e Automação. Focada em desenvolvimento backend.
